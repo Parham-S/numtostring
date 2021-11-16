@@ -1,3 +1,4 @@
+//declare test input on line 2
 let testNumber = 5;
 
 function inputNumStr() {
